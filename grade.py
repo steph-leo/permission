@@ -7,3 +7,6 @@ for score in grades:
   # Maybe lower numbers are okay? 
   elif score >= 80:
     print(score, "is a B.")
+   #this fail 
+  else:
+    print("most fail")
